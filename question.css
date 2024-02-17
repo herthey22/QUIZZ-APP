@@ -5,7 +5,7 @@ that the text is displayed using fallback fonts until the Poppins font is
 fully loaded.*/
 body {
   font-family: 'Poppins', sans-serif;
-  background: #b9b3a9;
+  background-image: url(./draw\ your\ sword.jpg);
   display: flex;
   justify-content: center;
 }
